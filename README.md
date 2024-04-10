@@ -1,9 +1,11 @@
 ### Hi, I'm Tenson Thekkumthala 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/TensonThekkumthala?label=Follow)](https://twitter.com/intent/follow?screen_name=TensonThekkumthala)
-[![Linkedin: Tenson](https://img.shields.io/badge/-Tenson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tenson-thekkumthala/)](https://www.linkedin.com/in/tenson-thekkumthala/)
+[![Twitter Follow](https://x.com/TensonThekkumt1?t=wOmIm8NqR4J_mkgSq6ujMw&s=08 )
+[![Linkedin: Tenson](https://www.linkedin.com/in/tenson-thekkumthala-10565822a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)](https://www.linkedin.com/in/tenson-thekkumthala/)
 ![GitHub followers](https://img.shields.io/github/followers/tenson?label=Follow&style=social)
 <img alt="profile views" src="https://komarev.com/ghpvc/?username=tenson&color=brightgreen">
+
+
 
 🎓 I'm Tenson Thekkumthala, currently pursuing a Bachelor's in Informatics in Vienna.
 
