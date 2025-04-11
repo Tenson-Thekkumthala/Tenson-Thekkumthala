@@ -4,7 +4,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/Tenson-Thekkumthala?label=Follow&style=social)
 <img alt="profile views" src="https://komarev.com/ghpvc/?username=Tenson-Thekkumthala&color=brightgreen">
 
-🎓 I'm Tenson Thekkumthala, currently pursuing a Bachelor's in Informatics in Vienna.
+🎓 I'm Tenson Thekkumthala, currently pursuing a Bachelor's in Informatics in Krems, Austria.
 
 ## 👨🏻‍💻 &nbsp;About Me
 
